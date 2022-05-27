@@ -1,7 +1,6 @@
 
 court case data/
 NOS articles/
-*.model
-word2vec_dutch_court_cases.model.syn1neg.npy
-word2vec_dutch_court_cases.model.wv.vectors.npy
 full_court_case_df
+models/
+merged_df.pkl
